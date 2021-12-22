@@ -17,6 +17,8 @@ public class Prova {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello world!!");
+        
+        System.out.println("Segona línia");
     }
     
 }
